@@ -1,0 +1,2 @@
+# adiary.github.io
+Дневник
